@@ -1,5 +1,3 @@
-'use strict';
-
 function isEnoughCapacity(products, containerSize) {
   let caunt = 0;
   for (const key in products) {

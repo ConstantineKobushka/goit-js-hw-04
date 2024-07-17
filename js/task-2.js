@@ -1,5 +1,3 @@
-'use strict';
-
 function calcAverageCalories(days) {
   let averageCountOfCalorie = 0;
   if (days.length === 0) return days;
